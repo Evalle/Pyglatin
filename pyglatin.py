@@ -1,5 +1,5 @@
 pyg = 'ay'
-original = raw_input('Please, enter your word:')
+original = raw_input('Please, enter your word: ')
 word = original.lower()
 first = word[0]
 new_vowel = word + pyg # if first letter is vowel
