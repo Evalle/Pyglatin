@@ -1,7 +1,3 @@
-print "Welcome to my own the English to Pig Latin translator! v 1.0"
-
-# some variables here
-
 pyg = 'ay'
 original = raw_input('Please, enter your word:')
 word = original.lower()
